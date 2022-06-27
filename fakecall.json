@@ -1,0 +1,52 @@
+{
+    "data" : [
+        {
+          
+            "network": "max",
+            
+            "max_ban": "198325c6da7762ff",
+            "max_int": "d6b6354043d27c60",
+            
+            "is_app_key": "154b0d031",
+            "is_ban": "DefaultBanner",
+            "is_int": "DefaultInterstitial",
+            
+            "admob_ban": "ca-app-pub-3940256099942544/6300978111",
+            "admob_int": "ca-app-pub-3940256099942544/1033173712",
+
+            "name": "Scary Chuck e Cheese's",
+            "photo": "https://i.postimg.cc/3RHyLPFV/maxresdefault.jpg",
+            "voice": "https://ringy9.github.io/Scary-Chuck-e-Cheese-s/mp3.mp4",
+            "video": "https://ringy9.github.io/Scary-Chuck-e-Cheese-s/vid.mp4",
+            "stories": [
+                "https://i.postimg.cc/B6xF4qvJ/03c9fb43d1d388e071eb7670221e7ca0.jpg",
+"https://i.postimg.cc/Y9cF54MX/0c7a5cad72ac06d9c253c8e959994c9f.jpg",
+"https://i.postimg.cc/CLM8pppV/1c5be0f2094b05f582fcaadf6702d524.jpg",
+"https://i.postimg.cc/PqDpQtY1/3493edbc70a6ddfa6f6d0d2ce22e7456.jpg",
+"https://i.postimg.cc/gjs6LNR5/422978ffb1fd655e2fd909b092b136e6.jpg",
+"https://i.postimg.cc/Nj5rL80J/6429dc2e13bf9294c65e214738ab97cf.jpg",
+"https://i.postimg.cc/44Qc0NM5/A8a1077ecf5461cd16b11777beef71dd.webp",
+"https://i.postimg.cc/L6y1HQmg/ac70b2da2637a02f2e634a2072f5028b.jpg",
+"https://i.postimg.cc/8cN6CqFM/hqdefault.jpg",
+"https://i.postimg.cc/3RHyLPFV/maxresdefault.jpg",
+"https://i.postimg.cc/Sx3Y9X2y/maxresdefault-1.jpg",
+"https://i.postimg.cc/Kzr1CJ9z/screen-shot-2020-05-18-at-4.webp"
+            ],
+            "wallpapers": [
+               "https://i.postimg.cc/B6xF4qvJ/03c9fb43d1d388e071eb7670221e7ca0.jpg",
+"https://i.postimg.cc/Y9cF54MX/0c7a5cad72ac06d9c253c8e959994c9f.jpg",
+"https://i.postimg.cc/CLM8pppV/1c5be0f2094b05f582fcaadf6702d524.jpg",
+"https://i.postimg.cc/PqDpQtY1/3493edbc70a6ddfa6f6d0d2ce22e7456.jpg",
+"https://i.postimg.cc/gjs6LNR5/422978ffb1fd655e2fd909b092b136e6.jpg",
+"https://i.postimg.cc/Nj5rL80J/6429dc2e13bf9294c65e214738ab97cf.jpg",
+"https://i.postimg.cc/44Qc0NM5/A8a1077ecf5461cd16b11777beef71dd.webp",
+"https://i.postimg.cc/L6y1HQmg/ac70b2da2637a02f2e634a2072f5028b.jpg",
+"https://i.postimg.cc/8cN6CqFM/hqdefault.jpg",
+"https://i.postimg.cc/3RHyLPFV/maxresdefault.jpg",
+"https://i.postimg.cc/Sx3Y9X2y/maxresdefault-1.jpg",
+"https://i.postimg.cc/Kzr1CJ9z/screen-shot-2020-05-18-at-4.webp"
+            ]
+          
+        }
+    ]
+}
